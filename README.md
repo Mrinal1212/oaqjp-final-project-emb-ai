@@ -1,2 +1,2 @@
 # Repository for final project
-Emotion Detector
+Project Name: Emotion Detector
